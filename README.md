@@ -4,6 +4,9 @@ Responsible and committed **Engineer**, able to quickly learn new concepts and t
 with creative mindset, strong analytical and critical thinking, 
 with knowledge and skills to build fast, scalable and maintainable applications using the best practices.
 
+**Italian and Brazilian Citizenship**  
+Legally allowed to work in the **Europe Union** and in **Brazil** without a visa.
+
 ## Technical Skills
 
 ### Languages
