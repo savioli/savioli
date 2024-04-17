@@ -11,7 +11,7 @@ Legally allowed to work in the **Europe Union** and in **Brazil** without a visa
 
 ### Languages
 
-Python, PHP, Java, Ruby, JavaScript, TypeScript, C++, C, Lua, SQL, UML
+Python, PHP, JavaScript, TypeScript, SQL, UML, Java, Ruby, C++, C, Lua
 
 ### Industry Knowledge
 
